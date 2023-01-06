@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Labelle</string>
+    <!-- Logo Apps -->
+    <string name="labelle_logo">"Labelle"</string>
+
+    <!-- Hype Product RecyclerView -->
+    <string name="nama">Nama</string>
+    <string name="ajakan">Yuk, gabung dengan Labelle!</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="wedok">Perempuan</string>
+    <string name="lanang">Laki-Laki</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="belum_ada_akun">Belum memiliki akun?</string>
+    <string name="sudah_ada_akun">Sudah memiliki akun?</string>
+    <string name="login_sekarang">Masuk Sekarang</string>
+    <string name="daftar_sekarang"> Daftar Sekarang</string>
+
+    <!-- Homepage -->
+    <string name="hello">Hello, </string>
+    <string name="welcome">Welcome to Labelle</string>
+    <string name="find">Find product here…</string>
+    <string name="hype">hype products</string>
+    <string name="recommend">product recommendation</string>
+    <string name="arrivals">new arrivals</string>
+    <string name="articles">articles</string>
+
+    <!-- Hype Product RecyclerView -->
+    <string name="brand">BRAND</string>
+    <string name="name_product">Product Name</string>
+    <string name="ratingtxt">3.8</string>
+    <string name="jumlah">(123)</string>
+
+    <!-- navbar -->
+    <string name="home">Home</string>
+    <string name="add_review">Add</string>
+
+    <!-- review rating -->
+    <string name="write_review">Write Review</string>
+    <string name="overall_rating">Your Overall Rating?</string>
+    <string name="write_a_review">Write a Review</string>
+    <string name="add_photo">Add Photo</string>
+    <string name="upload_a_before_and_after">Upload a before and after using the product to see how
+your skin change</string>
+
+    <!-- detail -->
+    <string name="info">INFO</string>
+    <string name="how_2_use">HOW TO USE</string>
+    <string name="ingredients">INGREDIENTS</string>
+    <string name="penjelasan_info">Barenbliss double shot! C Day A Night Deep Brightening Double Serum is a dual-chamber serum consisting of C Day (Pro-VC + Sepiwhite MSH + Niacinamide) for even, bright skin and A Night (Retinyl Palmitate + Bisabolol + Allantoin) for smoother and brighter looking skin.</string>
+</resources>

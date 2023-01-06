@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black_gender">#0E0D0D</color>
+    <color name="pink_labelle">#DA2A51</color>
+    <color name="fb_button">#1878F3</color>
+    <color name="daftar_sekarang">#AA2250</color>
+    <color name="login_text">#6D6D6D</color>
+    <color name="login_garis_bawah">#E4E4E4</color>
+    <color name="button_gender">#F982AA</color>
+    <color name="background_login">#FFF4F8</color>
+    <color name="grey_login">#918788</color>
+    <color name="title_homepage">#B22755</color>
+    <color name="buletan_bottom">#FFDFE2</color>
+</resources>
